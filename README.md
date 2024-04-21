@@ -5,6 +5,8 @@
 
 - 🔭 I currently work at **BBC**
 
+- 🎓 I'm studying for a **Digital and Technology Solutions BSc**
+
 - 📫 How to reach me **callum@seefortune.co.uk**
 
 <h3 align="left">Connect with me:</h3>

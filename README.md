@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Callum</h1>
-<h3 align="center">20 y/o software engineer 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callum-fortune&label=Profile%20views&color=0e75b6&style=flat" alt="callum-fortune" /> </p>
 

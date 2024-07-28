@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **callum@seefortune.co.uk**
 
-- 👻 Creator of **phantomsign.com**, Instant verification data from throwaway emails... check it out
+- 👻 Creator of <a href="https://phantomsign.com" target="blank">**phantomsign.com**</a>, Instant verification data from throwaway emails... check it out
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

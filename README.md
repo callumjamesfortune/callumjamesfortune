@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **callum@seefortune.co.uk**
 
-- 👻 Creator of <a href="https://phantomsign.com" target="blank">**phantomsign.com**</a>, Instant verification data from throwaway emails... check it out
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/callumfortune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="callumfortune" height="30" width="40" /></a>
